@@ -1,0 +1,12 @@
+<p>In a right triangle, if the length of the opposite side is 4 units and the length of the adjacent side is 3 units, find the measure of the angle θ.
+
+Solution:
+Using the definition of tangent:
+
+tan(θ) = opposite / adjacent
+Substituting the given values:
+
+tan(θ) = 4 / 3
+Now, solving for θ:
+
+θ = tan⁻¹(4/3) ≈ 53.13°</p>
